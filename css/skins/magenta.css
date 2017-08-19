@@ -1,0 +1,121 @@
+body {
+  color: #222;
+  letter-spacing: 1px; }
+
+a {
+  color: #cc0099; }
+
+p,
+body .main_footer {
+  color: #cc0099;
+  letter-spacing: 1px; }
+
+body .main_footer svg path {
+  fill: #cc0099; }
+
+.color_element {
+  color: #cc0099; }
+
+.color_bg {
+  background-color: #cc0099; }
+
+.color_border {
+  border-color: #cc0099; }
+
+.main_color_bg {
+  background-color: #222; }
+
+.bg_light {
+  background-color: #e7e7e7; }
+
+.bg_dark {
+  background-color: #222;
+  color: #fff; }
+  .bg_dark .s_descr::after {
+    background-color: #FFF; }
+  .bg_dark a {
+    color: #color; }
+
+svg path {
+  fill: #e7e7e7; }
+
+.mnu_wrap {
+  background-color: #222; }
+
+.top-mnu a:hover {
+  color: #cc0099; }
+.top-mnu a {
+  letter-spacing: 4px; }
+
+.top-text p {
+  color: #e7e7e7;
+  letter-spacing: 5px; }
+
+.s_descr {
+  letter-spacing: 5px; }
+  .s_descr::after {
+    background-color: #222; }
+
+section h3 {
+  letter-spacing: 3px;
+  color: #e7e7e7; }
+section p {
+  color: #e7e7e7; }
+
+.s_about_me p:nth-child(even) {
+  color: #cc0099; }
+.s_about_me li {
+  color: #e7e7e7; }
+
+.personal_header {
+  letter-spacing: 2px;
+  margin-bottom: 30px; }
+
+.service_container h3 {
+  color: #222;
+  letter-spacing: 1px;
+  font-size: 16px;
+  font-weight: 400; }
+
+.service_description p {
+  color: #222; }
+
+.s_project li {
+  color: #888;
+  letter-spacing: 2px; }
+.s_project li.active {
+  color: #000;
+  border-bottom: 1px solid #cc0099; }
+
+.portfolio_item .port_item_cont a {
+  border-color: #cc0099;
+  color: #cc0099; }
+
+.port_desr p {
+  color: #888; }
+
+section .contact_box h3 {
+  color: #222; }
+section .contact_box p {
+  color: #888; }
+
+.contact_box {
+  color: #cc0099; }
+
+.text-danger {
+  color: #cc0099; }
+
+form input:focus,
+form textarea:focus {
+  border: 1px solid #cc0099; }
+form input,
+form textarea {
+  letter-spacing: 2px; }
+form button {
+  background-color: #cc0099;
+  letter-spacing: 2px; }
+form .form-group {
+  letter-spacing: 2px;
+  color: #888; }
+
+/*# sourceMappingURL=magenta.css.map */
